@@ -1,6 +1,7 @@
 [submodule "abc"]
 	path = abc
 	url = git@github.com:huguanghui/cplusplus.git
+	ignore = dirty
 [submodule "coder"]
 	path = coder
 	url = git@github.com:huguanghui/huguanghui.github.io
