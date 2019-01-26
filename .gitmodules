@@ -4,3 +4,6 @@
 [submodule "abc"]
 	path = abc
 	url = git@github.com:huguanghui/cplusplus.git
+[submodule "coder"]
+	path = coder
+	url = git@github.com:huguanghui/huguanghui.github.io
