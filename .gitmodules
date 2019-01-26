@@ -1,0 +1,6 @@
+[submodule "sub/huguanghui.github.io"]
+	path = sub/huguanghui.github.io
+	url = git@github.com:huguanghui/huguanghui.github.io.git
+[submodule "abc"]
+	path = abc
+	url = git@github.com:huguanghui/cplusplus.git
